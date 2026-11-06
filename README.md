@@ -18,3 +18,7 @@ Open `index.html` in a browser, or run `python -m http.server 8000` in this fold
 - The website intentionally does not claim peer-reviewed publications or link to unverified repositories.
 - The website publishes your phone and FAU email, as requested for professional contact. You may remove the phone number for privacy.
 - Google Fonts are used; if offline, the site falls back to Arial.
+
+
+## Academic photos update
+Two original photographs are included in `assets/`: `fau-academic-recognition.webp` and `fau-graduation-dean.webp`. They appear in Education & Recognition. Keep both files in the assets folder when uploading to GitHub.
