@@ -4,6 +4,7 @@
 /* Academic milestone photographs */
 .academic-moments{margin-top:44px}.moments-heading{margin-bottom:22px}.moments-heading h3{font-size:clamp(1.35rem,2vw,1.7rem);margin:0 0 7px;color:#f5f8ff}.moments-heading p{color:#a9b9ce;margin:0;max-width:680px}.moments-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.moment-card{margin:0;background:#101e34;border:1px solid rgba(69,216,210,.2);border-radius:16px;overflow:hidden}.moment-image{height:275px;background:linear-gradient(135deg,#14263f,#0c182c);display:flex;justify-content:center;align-items:center;padding:12px}.moment-image img{height:100%;width:100%;object-fit:contain;border-radius:8px}.moment-card figcaption{padding:17px 19px 20px;display:flex;flex-direction:column;gap:6px}.moment-card figcaption strong{color:#f5f8ff;font-size:1rem}.moment-card figcaption span{color:#9eb5cc;font-size:.86rem}@media(max-width:640px){.moments-grid{grid-template-columns:1fr}.moment-image{height:290px}}
 
+
 /* Academic Milestones — layout improvements only */
 
 .moments-heading h3 {
@@ -72,3 +73,7 @@
     height: 300px;
   }
 }
+
+
+
+
